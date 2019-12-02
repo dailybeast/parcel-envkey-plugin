@@ -1,0 +1,15 @@
+# misc
+.DS_Store
+
+# Compiled sources
+*.log
+
+# node libraries
+node_modules
+
+.idea/
+*.iml
+
+dist/
+.env*
+

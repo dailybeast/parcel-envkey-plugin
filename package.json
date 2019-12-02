@@ -1,0 +1,14 @@
+{
+  "name": "parcel-plugin-envkey",
+  "version": "1.0.0",
+  "description": "Envkey Build Plugin for Parcel",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "The Daily Beast",
+  "license": "MIT",
+  "dependencies": {
+    "envkey": "^1.2.7"
+  }
+}
