@@ -1,5 +1,7 @@
 # parcel-envkey-plugin
 
+[![npm version](https://badge.fury.io/js/parcel-plugin-envkey.svg)](https://badge.fury.io/js/parcel-plugin-envkey)
+
 This package provides the ability to use Envkey safely for apps bundled with Parcel. Because this plugin loads the environment for the purpose of building client-side code a white-list of permitted keys must be specified via an `envkey.config.js` file - more details below.
 
 ## Installation
